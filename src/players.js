@@ -13,7 +13,7 @@ const players = [
       nationality: "Portugal",
       jerseyNumber: 7,
       age: 38,
-      imageUrl: "https://example.com/ronaldo.jpg"
+      imageUrl: "https://beninwebtv.com/wp-content/uploads/2024/02/Cristiano-Ronaldo-sous-le-maillot-dAl-Nassr-1024x768-1.webp"
     },
     {
       name: "Kylian Mbappé",
@@ -21,7 +21,7 @@ const players = [
       nationality: "France",
       jerseyNumber: 7,
       age: 24,
-      imageUrl: "https://example.com/mbappe.jpg"
+      imageUrl: "https://img-prod.sportmediaset.mediaset.it/images/2023/06/12/210245596-6a44938f-4b8d-4fb3-b588-ee71b5302a96.jpg"
     },
     {
       name: "Neymar Jr",
@@ -29,7 +29,7 @@ const players = [
       nationality: "Brazil",
       jerseyNumber: 10,
       age: 31,
-      imageUrl: "https://example.com/neymar.jpg"
+      imageUrl: "https://th.bing.com/th/id/OIP.6TzVgsfqwoUteSEBOKVn5gHaE7?rs=1&pid=ImgDetMain"
     }
   ];
   
